@@ -1,0 +1,2 @@
+# BetterMine
+ Better
